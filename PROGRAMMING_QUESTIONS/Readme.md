@@ -6,8 +6,8 @@
 ### TOPICS
 1. [INPUT & OUTPUT OPERATIONS](https://github.com/OddExtension5/CrashCourseOnPython/tree/main/PROGRAMMING_QUESTIONS/01-INPUT%26OUTPUT)
       + [LEVEL 01](https://github.com/OddExtension5/CrashCourseOnPython/blob/main/PROGRAMMING_QUESTIONS/01-INPUT%26OUTPUT/LEVEL-01.pdf)
-      + LEVEL 02
-      + LEVEL 03
+      + [LEVEL 02](https://github.com/OddExtension5/CrashCourseOnPython/blob/main/PROGRAMMING_QUESTIONS/01-INPUT%26OUTPUT/LEVEL-02.pdf)
+      + [LEVEL 03](https://github.com/OddExtension5/CrashCourseOnPython/blob/main/PROGRAMMING_QUESTIONS/01-INPUT%26OUTPUT/LEVEL-03.pdf)
 2. FLOW CONTROLS & OPERATORS
       + LEVEL 01
       + LEVEL 02
