@@ -10,7 +10,7 @@
       + [LEVEL 03](https://github.com/OddExtension5/CrashCourseOnPython/blob/main/PROGRAMMING_QUESTIONS/01-INPUT%26OUTPUT/LEVEL-03.pdf)
 2. FLOW CONTROLS & OPERATORS
       + [LEVEL 01](https://github.com/OddExtension5/CrashCourseOnPython/blob/main/PROGRAMMING_QUESTIONS/02-FLOW_CONTROL%26OPERATORS/LEVEL-01.pdf)
-      + LEVEL 02
+      + [LEVEL 02](https://github.com/OddExtension5/CrashCourseOnPython/blob/main/PROGRAMMING_QUESTIONS/02-FLOW_CONTROL%26OPERATORS/LEVEL-02.pdf)
       + LEVEL 03
 3. ARRAYS & LOOPS
       + LEVEL 01
